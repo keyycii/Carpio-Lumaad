@@ -44,7 +44,14 @@ DoughNot have two actors, the shopper and the administrators. Each actor see dif
 
 **Code Snippets**
 
+- http controllers sample code
+![auth controller](https://github.com/user-attachments/assets/1329c195-2d3b-4750-bbc6-72eade1a0164)
 
+- model sample code
+![user php](https://github.com/user-attachments/assets/c5506902-3ca8-476f-ad63-99386be2bebe)
+
+- migrations sample code
+![create donuts table](https://github.com/user-attachments/assets/bcc40ce2-65cf-4d0f-8236-b11c525f6ae4)
 
 **Contributors**
 *The owner of this midterm exam is Kristine Anne I. Carpio, and her collaborator is Zyla Rea Lumaad, both are a student of DMMMSU-MLUC, a 4th yera BSIT student from section B*
